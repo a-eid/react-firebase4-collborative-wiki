@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wicker-61c81",
+  "private_key_id": "b2289686e3e133de959165d954d8dfb9bc7592c0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPJLocm9QJuPX6\nXPzU67dwQAKzBymVH3mxYI3t09wWSHqJMX2j+QsV++P0o4MXQsc1jHtm6rwZPMra\nB6UbZklo6UHPZrbwahxorBLlevM/gVvQJZjolHcI/NvYHPDOD6w9hslm59VGZu9z\nGr4XJWauyBNLUQQdFbBFOKOWHucXkdPB71UzpelAvo2Lz+nWgpiqHEZdewHqzXYe\nIPf+VAtzn6VHkpHXpYwt60uzI909s+3+BTd0DS8ek5KNsDFFinZVcMTW1vSDdBqZ\nXwplfTxwhr207vyNcT9E+Yh/QKw3sSNYZuDp+OQDY/cxj96vOxrGhMK8/m7/citl\nO1SlWv9PAgMBAAECggEAX5OjqBWihYXpQUbshdXpQwrV9AMHBb6LKPPTKPxLHaD9\noRXL0f/URKV/7d4QW4g9YJDcU4VVmxN4yZcjcHwGvTh7XBYZrN5ZE1bqNSZA3Hl0\ngpsGbbIrJmN9kL7xwTJsF8t8XFX2C1DthR++u/FO6rB4bpUIH99lANt8Z4UEvdN/\n3tDnPcshwb+Hu446kQW4dU4Ya3Rrm6bjTCwBCJJR+YNM9im1NWjwN6l/oaOW+lrt\ntQGDOzFBBp6noabj8ljUCuLw673fHEk7kvvD8hIqdeeKSXKLIHip2sc0JiSEP9VD\n1uk++qNXxH25jUGhjAXIFjCwK32ymAeiX3w51R8T2QKBgQDr7E8fw/FEVXGA56qC\nR9sxMFofckdoOXs/RNqiHXfc4vwrOEfwJibEoWUA3mKkErGkNDYn6F8fHTigdeHX\nP2mMDWOWotwrrxLWVY/M3vzaS0RP/iRmOqfHsH6CV0mBYyk3P/emhvHiYKKFc/XD\nZsOGMyoXeVAltJzwsB0rif8z8wKBgQDgxXDiSXZJzUL2YjbPMcwxYN0vmaAobUsl\nSjuIAADK0BaMspwaq33eSqu8BNJ9DnIhbGt1IVx3aKIiGbcF56USpjNlqm+j8UES\ncyOyVs/so29hfUi1B28S9YzJPbnE9QtIIGrGpGXyqTgrZ/wif7rKRmSHWb547Hhf\nPsj3NLtKNQKBgChgOOpmzlOzi8lT3IqPYaP5cnMPS8k6jS02y3QTNwBGmIGNEEK5\nRMlCFdcgOCF8UYqYpOwPiLf6eEZ95jjAUX/2iqStGqEfRUoJOqMFRqDVYMuP4wrb\n3vr96ajE53+NSPB7shZ94cesYiQUxGq8m5nMB9gcmurZDkLi4RsictqhAoGBAKuD\n3hy+g+XTHIrX7Qzz6eWwDXgaGU1gANyGpaCkp/YbDWn1jQsI23Y5sow5fcjxsgNx\nMRpjB6USkc3Fo5R868isTEIC6UfHe6kxdQbMGcNv/zj8GfQRpR9pgjG5yTzS4/X4\nzqGfpy+hEvyET7CfmRBq4KEryR2LDFtZlI6WjWgVAoGAO6q622f82c3pQH5APF5U\nQAvAu1sa/J171Wkuf++VJZy291WO0T4Y2u1z+O8RuK/2ckJM/7dXpqfDjbYoDoKd\ngcVO4hKKBq5yRBzjvAmEJ2DfKunJI8Myx5nXbKyiCfsH3H47qRmAWK1Ss4vMN0f1\nz6Kwst3e/BI+Zx8ALBfYAxE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wicker@wicker-61c81.iam.gserviceaccount.com",
+  "client_id": "112783179704801733129",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wicker%40wicker-61c81.iam.gserviceaccount.com"
+}
